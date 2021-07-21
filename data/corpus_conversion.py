@@ -45,8 +45,9 @@ https://musescore.org/en/handbook/3/command-line-options#Run_a_batch_job_convert
 
 """
 
-import os
 import json
+import os
+
 import yaml
 
 
@@ -63,28 +64,32 @@ def get_info(what: str = 'scores'):
     return data
 
 
-def prep_conversion_doc(songs_data,
-                        write: bool = False,
-                        out_format: str = '.mxl'):
+def prep_conversion_doc(
+    songs_data,
+    write: bool = False,
+    out_format: str = '.musicxml'
+):
     """
     Prepares a list of dicts with in / out paths of proposed conversions.
     Optionally writes to a `corpus_conversion.json` file in this folder.
     """
 
-    if out_format not in ['.mxl', '.pdf', '.mid']:
+    if out_format not in ['.musicxml', '.mxl', '.pdf', '.mid']:
         raise ValueError('Invalid out_format')
 
     out_data = []
     for lc_key in songs_data:
         basic_path = os.path.join('..', 'scores', songs_data[lc_key]['path'], f'lc{lc_key}')
-        x = {'in': basic_path + '.mscx',
-             'out': basic_path + out_format}
+        x = {
+            'in': basic_path + '.mscx',
+            'out': basic_path + out_format
+        }
         out_data.append(x)
 
     if write:
         out_path = os.path.join('.', 'corpus_conversion.json')
         with open(out_path, 'w') as json_file:
-            json.dump(out_data, json_file)    
+            json.dump(out_data, json_file)
 
 
 def run_process():
