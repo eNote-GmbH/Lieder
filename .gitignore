@@ -12,3 +12,6 @@
 .*.mscx,
 .*.mscz,
 *~
+*.mei
+*.musicxml
+/.idea/
