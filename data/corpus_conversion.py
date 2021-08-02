@@ -56,7 +56,7 @@ def get_info(what: str = 'scores'):
     Retrieves the relevant corpus information: from `scores.yaml` by default.
     """
 
-    path_to_data = os.path.join('.', what + '.yaml')
+    path_to_data = os.path.join('data', what + '.yaml')
 
     with open(path_to_data) as f:
         data = yaml.load(f, Loader=yaml.FullLoader)
@@ -65,9 +65,9 @@ def get_info(what: str = 'scores'):
 
 
 def prep_conversion_doc(
-    songs_data,
-    write: bool = False,
-    out_format: str = '.musicxml'
+        songs_data,
+        write: bool = False,
+        out_format: str = '.musicxml'
 ):
     """
     Prepares a list of dicts with in / out paths of proposed conversions.
@@ -79,7 +79,7 @@ def prep_conversion_doc(
 
     out_data = []
     for lc_key in songs_data:
-        basic_path = os.path.join('..', 'scores', songs_data[lc_key]['path'], f'lc{lc_key}')
+        basic_path = os.path.join('scores', songs_data[lc_key]['path'], f'lc{lc_key}')
         x = {
             'in': basic_path + '.mscx',
             'out': basic_path + out_format
@@ -87,7 +87,7 @@ def prep_conversion_doc(
         out_data.append(x)
 
     if write:
-        out_path = os.path.join('.', 'corpus_conversion.json')
+        out_path = os.path.join('data', 'corpus_conversion.json')
         with open(out_path, 'w') as json_file:
             json.dump(out_data, json_file, indent=4, sort_keys=True)
 
