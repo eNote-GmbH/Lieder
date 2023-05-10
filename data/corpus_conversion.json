@@ -176,8 +176,84 @@
         "out": "scores/Bishop,_Henry/_/Sappho_at_her_Loom/lc6446003.musicxml"
     },
     {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/01_Chanson_d\u2019avril/lc6877413.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/01_Chanson_d\u2019avril/lc6877413.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/02_Le_matin/lc6877530.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/02_Le_matin/lc6877530.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/03_Vieille_chanson/lc6877589.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/03_Vieille_chanson/lc6877589.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/04_Adieux_de_l\u2019h\u00f4tesse_arabe/lc6878940.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/04_Adieux_de_l\u2019h\u00f4tesse_arabe/lc6878940.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/05_R\u00eave_de_la_bien-aim\u00e9e/lc6888209.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/05_R\u00eave_de_la_bien-aim\u00e9e/lc6888209.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/06_J\u2019aime_l\u2019amour/lc6894036.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/06_J\u2019aime_l\u2019amour/lc6894036.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/07_Vous_ne_priez_pas/lc6895220.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/07_Vous_ne_priez_pas/lc6895220.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/08_Ma_vie_a_son_secret/lc6895581.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/08_Ma_vie_a_son_secret/lc6895581.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/09_Pastorale/lc6898041.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/09_Pastorale/lc6898041.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/10_S\u00e9r\u00e9nade/lc6898141.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/10_S\u00e9r\u00e9nade/lc6898141.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/11_Berceuse/lc6901078.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/11_Berceuse/lc6901078.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/12_La_chanson_du_fou/lc6901197.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/12_La_chanson_du_fou/lc6901197.musicxml"
+    },
+    {
         "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/13_Absence/lc5079487.mscx",
         "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/13_Absence/lc5079487.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/14_Douce_mer/lc6902355.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/14_Douce_mer/lc6902355.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/15_Apr\u00e8s_l\u2019hiver/lc6902615.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/15_Apr\u00e8s_l\u2019hiver/lc6902615.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/16_La_coccinelle/lc6903757.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/16_La_coccinelle/lc6903757.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/17_Chant_d\u2019amour!/lc6903010.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/17_Chant_d\u2019amour!/lc6903010.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/18_Je_n\u2019en_dirai_rien!/lc6905092.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/18_Je_n\u2019en_dirai_rien!/lc6905092.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/19_L\u2019esprit_saint/lc6906944.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/19_L\u2019esprit_saint/lc6906944.musicxml"
+    },
+    {
+        "in": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/20_Tarentelle/lc6908450.mscx",
+        "out": "scores/Bizet,_Georges/20_M\u00e9lodies,_Op.21/20_Tarentelle/lc6908450.musicxml"
     },
     {
         "in": "scores/Bizet,_Georges/Feuilles_d\u2019album/1_\u00c0_une_Fleur/lc5079494.mscx",
@@ -208,6 +284,10 @@
         "out": "scores/Bonis,_Mel/_/Allons_prier!/lc6635424.musicxml"
     },
     {
+        "in": "scores/Bonis,_Mel/_/Le_chat_sur_le_toit,_Op.93/lc6635391.mscx",
+        "out": "scores/Bonis,_Mel/_/Le_chat_sur_le_toit,_Op.93/lc6635391.musicxml"
+    },
+    {
         "in": "scores/Boulanger,_Lili/_/Attente/lc5983850.mscx",
         "out": "scores/Boulanger,_Lili/_/Attente/lc5983850.musicxml"
     },
@@ -232,8 +312,8 @@
         "out": "scores/Boulanger,_Lili/Clairi\u00e8res_dans_le_ciel/03_Parfois,_je_suis_triste/lc5855622.musicxml"
     },
     {
-        "in": "scores/Boulanger,_Lili/Clairi\u00e8res_dans_le_ciel/04_Un_Po\u00e8te_disait/lc5857981.mscx",
-        "out": "scores/Boulanger,_Lili/Clairi\u00e8res_dans_le_ciel/04_Un_Po\u00e8te_disait/lc5857981.musicxml"
+        "in": "scores/Boulanger,_Lili/Clairi\u00e8res_dans_le_ciel/04_Un_po\u00e8te_disait/lc5857981.mscx",
+        "out": "scores/Boulanger,_Lili/Clairi\u00e8res_dans_le_ciel/04_Un_po\u00e8te_disait/lc5857981.musicxml"
     },
     {
         "in": "scores/Boulanger,_Lili/Clairi\u00e8res_dans_le_ciel/05_Au_pied_de_mon_lit/lc5861338.mscx",
@@ -736,6 +816,30 @@
         "out": "scores/Brahms,_Johannes/9_Lieder_und_Ges\u00e4nge,_Op.63/9_Heimweh_III/lc5940230.musicxml"
     },
     {
+        "in": "scores/Brahms,_Johannes/Marienlieder,_Op.22/2_Marias_Kirchgang/lc8708253.mscx",
+        "out": "scores/Brahms,_Johannes/Marienlieder,_Op.22/2_Marias_Kirchgang/lc8708253.musicxml"
+    },
+    {
+        "in": "scores/Brahms,_Johannes/Marienlieder,_Op.22/3_Marias_Wallfahrt/lc8708688.mscx",
+        "out": "scores/Brahms,_Johannes/Marienlieder,_Op.22/3_Marias_Wallfahrt/lc8708688.musicxml"
+    },
+    {
+        "in": "scores/Brahms,_Johannes/Marienlieder,_Op.22/4_Der_J\u00e4ger/lc8712405.mscx",
+        "out": "scores/Brahms,_Johannes/Marienlieder,_Op.22/4_Der_J\u00e4ger/lc8712405.musicxml"
+    },
+    {
+        "in": "scores/Brahms,_Johannes/Marienlieder,_Op.22/5_Ruf_zur_Maria/lc8712648.mscx",
+        "out": "scores/Brahms,_Johannes/Marienlieder,_Op.22/5_Ruf_zur_Maria/lc8712648.musicxml"
+    },
+    {
+        "in": "scores/Brahms,_Johannes/Marienlieder,_Op.22/6_Magdalena/lc8702982.mscx",
+        "out": "scores/Brahms,_Johannes/Marienlieder,_Op.22/6_Magdalena/lc8702982.musicxml"
+    },
+    {
+        "in": "scores/Brahms,_Johannes/Marienlieder,_Op.22/7_Marias_Lob/lc8718660.mscx",
+        "out": "scores/Brahms,_Johannes/Marienlieder,_Op.22/7_Marias_Lob/lc8718660.musicxml"
+    },
+    {
         "in": "scores/Bridge,_Frank/_/\u2019Tis_but_a_Week,_H.146/lc6451773.mscx",
         "out": "scores/Bridge,_Frank/_/\u2019Tis_but_a_Week,_H.146/lc6451773.musicxml"
     },
@@ -936,8 +1040,8 @@
         "out": "scores/Chaminade,_C\u00e9cile/_/Chanson_espagnole/lc6312216.musicxml"
     },
     {
-        "in": "scores/Chaminade,_C\u00e9cile/_/Chanson_Gro\u00ebnlandaise/lc6293357.mscx",
-        "out": "scores/Chaminade,_C\u00e9cile/_/Chanson_Gro\u00ebnlandaise/lc6293357.musicxml"
+        "in": "scores/Chaminade,_C\u00e9cile/_/Chanson_gro\u00ebnlandaise/lc6293357.mscx",
+        "out": "scores/Chaminade,_C\u00e9cile/_/Chanson_gro\u00ebnlandaise/lc6293357.musicxml"
     },
     {
         "in": "scores/Chaminade,_C\u00e9cile/_/Colette/lc4999324.mscx",
@@ -968,12 +1072,12 @@
         "out": "scores/Chaminade,_C\u00e9cile/_/L\u2019Id\u00e9al/lc4999332.musicxml"
     },
     {
-        "in": "scores/Chaminade,_C\u00e9cile/_/La_Fianc\u00e9e_du_soldat/lc4999581.mscx",
-        "out": "scores/Chaminade,_C\u00e9cile/_/La_Fianc\u00e9e_du_soldat/lc4999581.musicxml"
+        "in": "scores/Chaminade,_C\u00e9cile/_/La_fianc\u00e9e_du_soldat/lc4999581.mscx",
+        "out": "scores/Chaminade,_C\u00e9cile/_/La_fianc\u00e9e_du_soldat/lc4999581.musicxml"
     },
     {
-        "in": "scores/Chaminade,_C\u00e9cile/_/Les_R\u00eaves/lc4999602.mscx",
-        "out": "scores/Chaminade,_C\u00e9cile/_/Les_R\u00eaves/lc4999602.musicxml"
+        "in": "scores/Chaminade,_C\u00e9cile/_/Les_r\u00eaves/lc4999602.mscx",
+        "out": "scores/Chaminade,_C\u00e9cile/_/Les_r\u00eaves/lc4999602.musicxml"
     },
     {
         "in": "scores/Chaminade,_C\u00e9cile/_/Madrigal/lc5001820.mscx",
@@ -1188,6 +1292,38 @@
         "out": "scores/Cornelius,_Peter/Trauer_und_Trost,_Op.3/6_Trost/lc5043618.musicxml"
     },
     {
+        "in": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/1_Christbaum/lc7006856.mscx",
+        "out": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/1_Christbaum/lc7006856.musicxml"
+    },
+    {
+        "in": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/2a_Die_Hirten/lc7006959.mscx",
+        "out": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/2a_Die_Hirten/lc7006959.musicxml"
+    },
+    {
+        "in": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/2b_Die_Hirten/lc7008709.mscx",
+        "out": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/2b_Die_Hirten/lc7008709.musicxml"
+    },
+    {
+        "in": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/3a_Die_K\u00f6nige/lc7011202.mscx",
+        "out": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/3a_Die_K\u00f6nige/lc7011202.musicxml"
+    },
+    {
+        "in": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/3b_Die_K\u00f6nige/lc7011252.mscx",
+        "out": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/3b_Die_K\u00f6nige/lc7011252.musicxml"
+    },
+    {
+        "in": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/4_Simeon/lc7018964.mscx",
+        "out": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/4_Simeon/lc7018964.musicxml"
+    },
+    {
+        "in": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/5_Christus_der_Kinderfreund/lc7019213.mscx",
+        "out": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/5_Christus_der_Kinderfreund/lc7019213.musicxml"
+    },
+    {
+        "in": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/6_Christkind/lc7019290.mscx",
+        "out": "scores/Cornelius,_Peter/Weihnachtslieder,_Op.8/6_Christkind/lc7019290.musicxml"
+    },
+    {
         "in": "scores/Cowen,_Frederic_Hymen/_/Hail!/lc6482928.mscx",
         "out": "scores/Cowen,_Frederic_Hymen/_/Hail!/lc6482928.musicxml"
     },
@@ -1232,28 +1368,36 @@
         "out": "scores/Davies,_Walford/8_New_Nursery_Rhymes,_Op.23/8_O_my_little_sixpence/lc6218743.musicxml"
     },
     {
-        "in": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/1_C\u2019est_l\u2019extase_langoureuse/lc5060910.mscx",
-        "out": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/1_C\u2019est_l\u2019extase_langoureuse/lc5060910.musicxml"
+        "in": "scores/Debussy,_Claude/2_Romances/1_L\u2019\u00e2me_\u00e9vapor\u00e9e/lc7163829.mscx",
+        "out": "scores/Debussy,_Claude/2_Romances/1_L\u2019\u00e2me_\u00e9vapor\u00e9e/lc7163829.musicxml"
     },
     {
-        "in": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/2_Il_pleure_dans_mon_coeur/lc5060918.mscx",
-        "out": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/2_Il_pleure_dans_mon_coeur/lc5060918.musicxml"
+        "in": "scores/Debussy,_Claude/2_Romances/2_Les_cloches/lc7086632.mscx",
+        "out": "scores/Debussy,_Claude/2_Romances/2_Les_cloches/lc7086632.musicxml"
     },
     {
-        "in": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/3_L\u2019ombre_des_arbres/lc5060924.mscx",
-        "out": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/3_L\u2019ombre_des_arbres/lc5060924.musicxml"
+        "in": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/1_C\u2019est_l\u2019extase_langoureuse/lc5060910.mscx",
+        "out": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/1_C\u2019est_l\u2019extase_langoureuse/lc5060910.musicxml"
     },
     {
-        "in": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/4_Paysages_belges._Chevaux_de_bois/lc5060932.mscx",
-        "out": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/4_Paysages_belges._Chevaux_de_bois/lc5060932.musicxml"
+        "in": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/2_Il_pleure_dans_mon_coeur/lc5060918.mscx",
+        "out": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/2_Il_pleure_dans_mon_coeur/lc5060918.musicxml"
     },
     {
-        "in": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/5_Aquarelles_I._Green/lc5060938.mscx",
-        "out": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/5_Aquarelles_I._Green/lc5060938.musicxml"
+        "in": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/3_L\u2019ombre_des_arbres/lc5060924.mscx",
+        "out": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/3_L\u2019ombre_des_arbres/lc5060924.musicxml"
     },
     {
-        "in": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/6_Aquarelles_II._Spleen/lc5060943.mscx",
-        "out": "scores/Debussy,_Claude/Ariettes_Oubli\u00e9es/6_Aquarelles_II._Spleen/lc5060943.musicxml"
+        "in": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/4_Paysages_belges._Chevaux_de_bois/lc5060932.mscx",
+        "out": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/4_Paysages_belges._Chevaux_de_bois/lc5060932.musicxml"
+    },
+    {
+        "in": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/5_Aquarelles_I._Green/lc5060938.mscx",
+        "out": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/5_Aquarelles_I._Green/lc5060938.musicxml"
+    },
+    {
+        "in": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/6_Aquarelles_II._Spleen/lc5060943.mscx",
+        "out": "scores/Debussy,_Claude/Ariettes_oubli\u00e9es/6_Aquarelles_II._Spleen/lc5060943.musicxml"
     },
     {
         "in": "scores/Debussy,_Claude/Cinq_Po\u00ebmes_de_Baudelaire/1_Le_Balcon/lc5060949.mscx",
@@ -1392,6 +1536,10 @@
         "out": "scores/Faisst,_Clara_Mathilda/2_Kriegslieder/2_Reiterlied/lc6569855.musicxml"
     },
     {
+        "in": "scores/Faisst,_Clara_Mathilda/2_Lieder,_Op.19/1_Stimme_eines_seligen_Geistes/lc6575317.mscx",
+        "out": "scores/Faisst,_Clara_Mathilda/2_Lieder,_Op.19/1_Stimme_eines_seligen_Geistes/lc6575317.musicxml"
+    },
+    {
         "in": "scores/Faisst,_Clara_Mathilda/2_Lieder,_Op.19/2_Das_Br\u00fcnnlein/lc6575466.mscx",
         "out": "scores/Faisst,_Clara_Mathilda/2_Lieder,_Op.19/2_Das_Br\u00fcnnlein/lc6575466.musicxml"
     },
@@ -1512,6 +1660,10 @@
         "out": "scores/Faur\u00e9,_Gabriel/3_Songs,_Op.7/1_Apr\u00e8s_un_r\u00eave/lc6810863.musicxml"
     },
     {
+        "in": "scores/Faur\u00e9,_Gabriel/3_Songs,_Op.7/2_Hymne/lc6772652.mscx",
+        "out": "scores/Faur\u00e9,_Gabriel/3_Songs,_Op.7/2_Hymne/lc6772652.musicxml"
+    },
+    {
         "in": "scores/Faur\u00e9,_Gabriel/3_Songs,_Op.7/3_Barcarolle/lc6772888.mscx",
         "out": "scores/Faur\u00e9,_Gabriel/3_Songs,_Op.7/3_Barcarolle/lc6772888.musicxml"
     },
@@ -1608,6 +1760,30 @@
         "out": "scores/Franz,_Robert/12_Ges\u00e4nge,_Op.1/12_In_meinem_Garten_die_Nelken/lc5801830.musicxml"
     },
     {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/1_F\u00fcr_Musik/lc6806626.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/1_F\u00fcr_Musik/lc6806626.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/2_Stille_Sicherheit/lc6808938.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/2_Stille_Sicherheit/lc6808938.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/3_Mutter,_o_sing\u2019_mich_zur_Ruh\u2019!/lc6826058.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/3_Mutter,_o_sing\u2019_mich_zur_Ruh\u2019!/lc6826058.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/4_Der_vielsch\u00f6nen_Fraue/lc6826157.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/4_Der_vielsch\u00f6nen_Fraue/lc6826157.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/5_Und_die_Rosen,_die_prangen/lc6827644.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/5_Und_die_Rosen,_die_prangen/lc6827644.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/6_Umsonst/lc6829065.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.10/6_Umsonst/lc6829065.musicxml"
+    },
+    {
         "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.14/1_Widmung/lc5117906.mscx",
         "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.14/1_Widmung/lc5117906.musicxml"
     },
@@ -1644,8 +1820,40 @@
         "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.16/3_Der_Fichtenbaum/lc6800506.musicxml"
     },
     {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.16/4_Abends/lc6801340.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.16/4_Abends/lc6801340.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.16/5_Weisst_du_noch/lc6801402.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.16/5_Weisst_du_noch/lc6801402.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.16/6_Um_Mitternacht/lc6801790.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.16/6_Um_Mitternacht/lc6801790.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/1_Wenn_ich\u2019s_nur_w\u00fcsste!/lc6804721.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/1_Wenn_ich\u2019s_nur_w\u00fcsste!/lc6804721.musicxml"
+    },
+    {
         "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/2_Lieber_Schatz,_sei_wieder_gut/lc4976646.mscx",
         "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/2_Lieber_Schatz,_sei_wieder_gut/lc4976646.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/3_Vergiss_mein_nicht!/lc6804766.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/3_Vergiss_mein_nicht!/lc6804766.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/4_Des_M\u00fcden_Abendlied/lc6805149.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/4_Des_M\u00fcden_Abendlied/lc6805149.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/5_Vom_Auge_zum_Herzen/lc6806109.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/5_Vom_Auge_zum_Herzen/lc6806109.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/6_An_den_Wind/lc6806187.mscx",
+        "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.26/6_An_den_Wind/lc6806187.musicxml"
     },
     {
         "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.6/1_Wasserfahrt/lc5644083.mscx",
@@ -1670,6 +1878,30 @@
     {
         "in": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.6/6_Tr\u00e4nen/lc5828468.mscx",
         "out": "scores/Franz,_Robert/6_Ges\u00e4nge,_Op.6/6_Tr\u00e4nen/lc5828468.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Lieder,_Op.25/1_Die_Lotosblume/lc6810938.mscx",
+        "out": "scores/Franz,_Robert/6_Lieder,_Op.25/1_Die_Lotosblume/lc6810938.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Lieder,_Op.25/2_O_l\u00fcge_nicht/lc6811470.mscx",
+        "out": "scores/Franz,_Robert/6_Lieder,_Op.25/2_O_l\u00fcge_nicht/lc6811470.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Lieder,_Op.25/3_Ich_hab\u2019_im_Traum_geweinet/lc6812631.mscx",
+        "out": "scores/Franz,_Robert/6_Lieder,_Op.25/3_Ich_hab\u2019_im_Traum_geweinet/lc6812631.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Lieder,_Op.25/4_Kommt_fein\u2019s_Liebchen_heut\u2019/lc6812991.mscx",
+        "out": "scores/Franz,_Robert/6_Lieder,_Op.25/4_Kommt_fein\u2019s_Liebchen_heut\u2019/lc6812991.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Lieder,_Op.25/5_Im_wundersch\u00f6nen_Monat_Mai/lc6813842.mscx",
+        "out": "scores/Franz,_Robert/6_Lieder,_Op.25/5_Im_wundersch\u00f6nen_Monat_Mai/lc6813842.musicxml"
+    },
+    {
+        "in": "scores/Franz,_Robert/6_Lieder,_Op.25/6_Auf_dem_Meere/lc6816059.mscx",
+        "out": "scores/Franz,_Robert/6_Lieder,_Op.25/6_Auf_dem_Meere/lc6816059.musicxml"
     },
     {
         "in": "scores/Freer,_Eleanor_Everest/2_Songs,_Op.16/1_The_boat_is_chafing_at_our_long_delay/lc6598624.mscx",
@@ -1814,6 +2046,10 @@
     {
         "in": "scores/Grandval,_Cl\u00e9mence_de/_/Sacrifice/lc6626922.mscx",
         "out": "scores/Grandval,_Cl\u00e9mence_de/_/Sacrifice/lc6626922.musicxml"
+    },
+    {
+        "in": "scores/Grandval,_Cl\u00e9mence_de/_/Villanelle/lc6626468.mscx",
+        "out": "scores/Grandval,_Cl\u00e9mence_de/_/Villanelle/lc6626468.musicxml"
     },
     {
         "in": "scores/Grandval,_Cl\u00e9mence_de/6_Nouvelles_m\u00e9lodies/1_Les_clochettes/lc6613355.mscx",
@@ -3144,6 +3380,10 @@
         "out": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/02_When_Young_Love_Comes_Knocking/lc6758594.musicxml"
     },
     {
+        "in": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/03_In_April_Mood/lc6762513.mscx",
+        "out": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/03_In_April_Mood/lc6762513.musicxml"
+    },
+    {
         "in": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/04_Dawning_Love/lc6762153.mscx",
         "out": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/04_Dawning_Love/lc6762153.musicxml"
     },
@@ -3160,8 +3400,16 @@
         "out": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/06b_A_Dream_of_Violets/lc6761202.musicxml"
     },
     {
+        "in": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/07_Star_Fancies/lc6765984.mscx",
+        "out": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/07_Star_Fancies/lc6765984.musicxml"
+    },
+    {
         "in": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/08_Love\u2019s_Emblems/lc6764425.mscx",
         "out": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/08_Love\u2019s_Emblems/lc6764425.musicxml"
+    },
+    {
+        "in": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/09_My_Secret/lc6764874.mscx",
+        "out": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/09_My_Secret/lc6764874.musicxml"
     },
     {
         "in": "scores/Lehmann,_Liza/Songs_of_Love_and_Spring/10_The_Sapphire/lc6766045.mscx",
@@ -3282,6 +3530,54 @@
     {
         "in": "scores/Mayer,_Emilie/3_Lieder,_Op.7/3_Wenn_der_Abendstern_die_Rosen/lc5841419.mscx",
         "out": "scores/Mayer,_Emilie/3_Lieder,_Op.7/3_Wenn_der_Abendstern_die_Rosen/lc5841419.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/1_Ich_wollt\u2019,_meine_Lieb\u2019_erg\u00f6sse_sich,_MWV_J_5/lc7074684.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/1_Ich_wollt\u2019,_meine_Lieb\u2019_erg\u00f6sse_sich,_MWV_J_5/lc7074684.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/2_Abschiedslied_der_Zugv\u00f6gel,_MWV_J_9/lc7076589.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/2_Abschiedslied_der_Zugv\u00f6gel,_MWV_J_9/lc7076589.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/3_Gruss,_MWV_J_8/lc7163985.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/3_Gruss,_MWV_J_8/lc7163985.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/4_Herbstlied,_MWV_J_11/lc7374512.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/4_Herbstlied,_MWV_J_11/lc7374512.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/5_Volkslied,_MWV_J_10/lc7374854.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/5_Volkslied,_MWV_J_10/lc7374854.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/6_Maigl\u00f6ckchen_und_die_Bl\u00fcmelein,_MWV_J_7/lc7380386.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Duets,_Op.63/6_Maigl\u00f6ckchen_und_die_Bl\u00fcmelein,_MWV_J_7/lc7380386.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/1_Das_Fenster,_MWV_K_29/lc6989284.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/1_Das_Fenster,_MWV_K_29/lc6989284.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/2_Morgenlied,_MWV_K_123/lc6989204.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/2_Morgenlied,_MWV_K_123/lc6989204.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/3_Die_Liebende_schreibt,_MWV_K_66/lc6989465.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/3_Die_Liebende_schreibt,_MWV_K_66/lc6989465.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/4_Alln\u00e4chtlich_im_Traume_seh\u2019_ich_dich,_MWV_K_78/lc6994338.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/4_Alln\u00e4chtlich_im_Traume_seh\u2019_ich_dich,_MWV_K_78/lc6994338.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/5_Der_Mond,_MWV_K_122/lc6995255.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/5_Der_Mond,_MWV_K_122/lc6995255.musicxml"
+    },
+    {
+        "in": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/6_Altdeutsches_Fr\u00fchlingslied,_MWV_K_127/lc6997609.mscx",
+        "out": "scores/Mendelssohn,_Felix/6_Ges\u00e4nge,_Op.86/6_Altdeutsches_Fr\u00fchlingslied,_MWV_K_127/lc6997609.musicxml"
     },
     {
         "in": "scores/Mounsey_Bartholomew,_Ann/Songs_of_Remembrance/1_If_love_be_life,_I_long_to_die/lc6646808.mscx",
@@ -3556,180 +3852,212 @@
         "out": "scores/Puget,_Lo\u00efsa/_/Le_bon_cur\u00e9_patience/lc6669339.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/1_Sehnsucht_nach_dem_Vaterlande/lc5002041.mscx",
-        "out": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/1_Sehnsucht_nach_dem_Vaterlande/lc5002041.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/01_Fr\u00fchlingslied/lc5067312.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/01_Fr\u00fchlingslied/lc5067312.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/2_Fr\u00fchlingslied/lc5002052.mscx",
-        "out": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/2_Fr\u00fchlingslied/lc5002052.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/02_Wenn_ich_ihn_nur_habe/lc5100067.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/02_Wenn_ich_ihn_nur_habe/lc5100067.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/3a_Geistliches_Lied/lc5092560.mscx",
-        "out": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/3a_Geistliches_Lied/lc5092560.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/03_Durch_die_bunten_Rosenhecken/lc5002087.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/03_Durch_die_bunten_Rosenhecken/lc5002087.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/3b_Geistliches_Lied_(4-part)/lc5092551.mscx",
-        "out": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/3b_Geistliches_Lied_(4-part)/lc5092551.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/04_Wohl_dem_Mann/lc5100073.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/04_Wohl_dem_Mann/lc5100073.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/4_Bergmannslied/lc5002062.mscx",
-        "out": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/4_Bergmannslied/lc5002062.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/05_Poesia_di_Metastasio_(I)/lc5100080.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/05_Poesia_di_Metastasio_(I)/lc5100080.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/5_Noch_ein_Bergmannslied/lc5092612.mscx",
-        "out": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/5_Noch_ein_Bergmannslied/lc5092612.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/06_Notturno/lc5100188.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/06_Notturno/lc5100188.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/6_Er_besucht_den_Klostergarten_und_den_Kirchoff,_\u00fcber_den_letztern_findet_sich_folgendes_Gedicht/lc5002078.mscx",
-        "out": "scores/Reichardt,_Louise/Sechs_Lieder_von_Novalis,_Op.4/6_Er_besucht_den_Klostergarten_und_den_Kirchoff,_\u00fcber_den_letztern_findet_sich_folgendes_Gedicht/lc5002078.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/07_Poesia_di_Metastasio_(II)/lc5101789.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/07_Poesia_di_Metastasio_(II)/lc5101789.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/01_Fr\u00fchlingslied/lc5067312.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/01_Fr\u00fchlingslied/lc5067312.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/08_Poesie_von_Tieck/lc5002096.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/08_Poesie_von_Tieck/lc5002096.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/02_Wenn_ich_ihn_nur_habe/lc5100067.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/02_Wenn_ich_ihn_nur_habe/lc5100067.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/09_Aus_Ariels_Offenbarungen/lc5002100.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/09_Aus_Ariels_Offenbarungen/lc5002100.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/03_Durch_die_bunten_Rosenhecken/lc5002087.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/03_Durch_die_bunten_Rosenhecken/lc5002087.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/10_Ida_(aus_Ariels_Offenbarungen)/lc5002108.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/10_Ida_(aus_Ariels_Offenbarungen)/lc5002108.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/04_Wohl_dem_Mann/lc5100073.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/04_Wohl_dem_Mann/lc5100073.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/11_Aus_Tiecks_Genoveva/lc5002111.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/11_Aus_Tiecks_Genoveva/lc5002111.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/05_Poesia_di_Metastasio_(I)/lc5100080.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/05_Poesia_di_Metastasio_(I)/lc5100080.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/12_Heymdal_(aus_Ariels_Offenbarungen)/lc5101826.mscx",
+        "out": "scores/Reichardt,_Louise/12_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/12_Heymdal_(aus_Ariels_Offenbarungen)/lc5101826.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/06_Notturno/lc5100188.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/06_Notturno/lc5100188.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/01_Erinnrung_zum_Bach/lc5087917.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/01_Erinnrung_zum_Bach/lc5087917.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/07_Poesia_di_Metastasio_(II)/lc5101789.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/07_Poesia_di_Metastasio_(II)/lc5101789.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/02_Der_S\u00e4nger_geht/lc5002130.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/02_Der_S\u00e4nger_geht/lc5002130.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/08_Poesie_von_Tieck/lc5002096.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/08_Poesie_von_Tieck/lc5002096.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/03_Nach_Sevilla/lc5046249.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/03_Nach_Sevilla/lc5046249.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/09_Aus_Ariels_Offenbarungen/lc5002100.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/09_Aus_Ariels_Offenbarungen/lc5002100.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/04_Vaters_Klage/lc5001870.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/04_Vaters_Klage/lc5001870.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/10_Ida_(aus_Ariels_Offenbarungen)/lc5002108.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/10_Ida_(aus_Ariels_Offenbarungen)/lc5002108.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/05_F\u00fcr_die_Laute_componirt/lc5001880.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/05_F\u00fcr_die_Laute_componirt/lc5001880.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/11_Aus_Tiecks_Genoveva/lc5002111.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/11_Aus_Tiecks_Genoveva/lc5002111.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/06_Unruhiger_Schlaf/lc5001911.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/06_Unruhiger_Schlaf/lc5001911.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/12_Heymdal_(aus_Ariels_Offenbarungen)/lc5101826.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Deutsche_und_Itali\u00e4nische_Romantische_Ges\u00e4nge/12_Heymdal_(aus_Ariels_Offenbarungen)/lc5101826.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/07_Volkslied/lc5001925.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/07_Volkslied/lc5001925.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/01_Erinnrung_zum_Bach/lc5087917.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/01_Erinnrung_zum_Bach/lc5087917.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/08_Ein_recht_Gem\u00fcth/lc5001930.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/08_Ein_recht_Gem\u00fcth/lc5001930.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/02_Der_S\u00e4nger_geht/lc5002130.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/02_Der_S\u00e4nger_geht/lc5002130.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/09_Der_Spinnerin_Nachtlied/lc5001937.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/09_Der_Spinnerin_Nachtlied/lc5001937.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/03_Nach_Sevilla/lc5046249.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/03_Nach_Sevilla/lc5046249.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/10_Die_Veilchen/lc5087944.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/10_Die_Veilchen/lc5087944.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/04_Vaters_Klage/lc5001870.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/04_Vaters_Klage/lc5001870.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/11_Daphne_am_Bach/lc5087973.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/11_Daphne_am_Bach/lc5087973.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/05_F\u00fcr_die_Laute_componirt/lc5001880.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/05_F\u00fcr_die_Laute_componirt/lc5001880.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge/12_Aus_Novalis_Hymnen_an_die_Nacht/lc5001945.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge/12_Aus_Novalis_Hymnen_an_die_Nacht/lc5001945.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/06_Unruhiger_Schlaf/lc5001911.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/06_Unruhiger_Schlaf/lc5001911.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/01_Fr\u00fchlingsblumen/lc5001965.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/01_Fr\u00fchlingsblumen/lc5001965.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/07_Volkslied/lc5001925.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/07_Volkslied/lc5001925.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/02_Der_traurige_Wanderer/lc5061310.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/02_Der_traurige_Wanderer/lc5061310.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/08_Ein_recht_Gem\u00fcth/lc5001930.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/08_Ein_recht_Gem\u00fcth/lc5001930.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/03_Die_Blume_der_Blumen/lc5001980.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/03_Die_Blume_der_Blumen/lc5001980.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/09_Der_Spinnerin_Nachtlied/lc5001937.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/09_Der_Spinnerin_Nachtlied/lc5001937.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/04_Wachtelwacht/lc5001994.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/04_Wachtelwacht/lc5001994.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/10_Die_Veilchen/lc5087944.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/10_Die_Veilchen/lc5087944.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/05_Betteley_der_V\u00f6gel/lc5001997.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/05_Betteley_der_V\u00f6gel/lc5001997.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/11_Daphne_am_Bach/lc5087973.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/11_Daphne_am_Bach/lc5087973.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/06_Kriegslied_des_Mays/lc5002006.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/06_Kriegslied_des_Mays/lc5002006.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/12_Aus_Novalis_Hymnen_an_die_Nacht/lc5001945.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge/12_Aus_Novalis_Hymnen_an_die_Nacht/lc5001945.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/07_Die_Wiese/lc5046362.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/07_Die_Wiese/lc5046362.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/01_Fr\u00fchlingsblumen/lc5001965.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/01_Fr\u00fchlingsblumen/lc5001965.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/08_Kaeuzlein/lc5002015.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/08_Kaeuzlein/lc5002015.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/02_Der_traurige_Wanderer/lc5061310.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/02_Der_traurige_Wanderer/lc5061310.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/09_Hier_liegt_ein_Spielmann_begraben/lc5002019.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/09_Hier_liegt_ein_Spielmann_begraben/lc5002019.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/03_Die_Blume_der_Blumen/lc5001980.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/03_Die_Blume_der_Blumen/lc5001980.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/10_Der_Mond/lc5061932.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/10_Der_Mond/lc5061932.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/04_Wachtelwacht/lc5001994.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/04_Wachtelwacht/lc5001994.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/11_An_Maria_(aus_Novalis_geistlichen_Liedern)/lc5002026.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/11_An_Maria_(aus_Novalis_geistlichen_Liedern)/lc5002026.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/05_Betteley_der_V\u00f6gel/lc5001997.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/05_Betteley_der_V\u00f6gel/lc5001997.musicxml"
+        "in": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/12_Duettino/lc5062143.mscx",
+        "out": "scores/Reichardt,_Louise/12_Ges\u00e4nge,_Op.3/12_Duettino/lc5062143.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/06_Kriegslied_des_Mays/lc5002006.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/06_Kriegslied_des_Mays/lc5002006.musicxml"
+        "in": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/1_Sehnsucht_nach_dem_Vaterlande/lc5002041.mscx",
+        "out": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/1_Sehnsucht_nach_dem_Vaterlande/lc5002041.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/07_Die_Wiese/lc5046362.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/07_Die_Wiese/lc5046362.musicxml"
+        "in": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/2_Fr\u00fchlingslied/lc5002052.mscx",
+        "out": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/2_Fr\u00fchlingslied/lc5002052.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/08_Kaeuzlein/lc5002015.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/08_Kaeuzlein/lc5002015.musicxml"
+        "in": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/3a_Geistliches_Lied/lc5092560.mscx",
+        "out": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/3a_Geistliches_Lied/lc5092560.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/09_Hier_liegt_ein_Spielmann_begraben/lc5002019.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/09_Hier_liegt_ein_Spielmann_begraben/lc5002019.musicxml"
+        "in": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/3b_Geistliches_Lied_(4-part)/lc5092551.mscx",
+        "out": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/3b_Geistliches_Lied_(4-part)/lc5092551.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/10_Der_Mond/lc5061932.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/10_Der_Mond/lc5061932.musicxml"
+        "in": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/4_Bergmannslied/lc5002062.mscx",
+        "out": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/4_Bergmannslied/lc5002062.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/11_An_Maria_(aus_Novalis_geistlichen_Liedern)/lc5002026.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/11_An_Maria_(aus_Novalis_geistlichen_Liedern)/lc5002026.musicxml"
+        "in": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/5_Noch_ein_Bergmannslied/lc5092612.mscx",
+        "out": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/5_Noch_ein_Bergmannslied/lc5092612.musicxml"
     },
     {
-        "in": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/12_Duettino/lc5062143.mscx",
-        "out": "scores/Reichardt,_Louise/Zw\u00f6lf_Ges\u00e4nge,_Op.3/12_Duettino/lc5062143.musicxml"
+        "in": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/6_Er_besucht_den_Klostergarten_und_den_Kirchoff,_\u00fcber_den_letztern_findet_sich_folgendes_Gedicht/lc5002078.mscx",
+        "out": "scores/Reichardt,_Louise/6_Lieder_von_Novalis,_Op.4/6_Er_besucht_den_Klostergarten_und_den_Kirchoff,_\u00fcber_den_letztern_findet_sich_folgendes_Gedicht/lc5002078.musicxml"
     },
     {
         "in": "scores/Rootham,_Cyril/_/The_Ballad_of_Kingslea_Mere/lc6449397.mscx",
         "out": "scores/Rootham,_Cyril/_/The_Ballad_of_Kingslea_Mere/lc6449397.musicxml"
+    },
+    {
+        "in": "scores/Satie,_Erik/_/Chez_le_docteur/lc6986065.mscx",
+        "out": "scores/Satie,_Erik/_/Chez_le_docteur/lc6986065.musicxml"
+    },
+    {
+        "in": "scores/Satie,_Erik/_/Je_te_veux/lc6986302.mscx",
+        "out": "scores/Satie,_Erik/_/Je_te_veux/lc6986302.musicxml"
+    },
+    {
+        "in": "scores/Satie,_Erik/_/L\u2019omnibus_automobile/lc6987889.mscx",
+        "out": "scores/Satie,_Erik/_/L\u2019omnibus_automobile/lc6987889.musicxml"
+    },
+    {
+        "in": "scores/Satie,_Erik/_/La_diva_de_\u201cL\u2019Empire\u201d/lc6987705.mscx",
+        "out": "scores/Satie,_Erik/_/La_diva_de_\u201cL\u2019Empire\u201d/lc6987705.musicxml"
+    },
+    {
+        "in": "scores/Satie,_Erik/_/Tendrement/lc6993176.mscx",
+        "out": "scores/Satie,_Erik/_/Tendrement/lc6993176.musicxml"
+    },
+    {
+        "in": "scores/Satie,_Erik/4_Petites_m\u00e9lodies/1_El\u00e9gie/lc6988229.mscx",
+        "out": "scores/Satie,_Erik/4_Petites_m\u00e9lodies/1_El\u00e9gie/lc6988229.musicxml"
+    },
+    {
+        "in": "scores/Satie,_Erik/4_Petites_m\u00e9lodies/3_Chanson/lc6990810.mscx",
+        "out": "scores/Satie,_Erik/4_Petites_m\u00e9lodies/3_Chanson/lc6990810.musicxml"
+    },
+    {
+        "in": "scores/Satie,_Erik/4_Petites_m\u00e9lodies/4_Adieu/lc6990957.mscx",
+        "out": "scores/Satie,_Erik/4_Petites_m\u00e9lodies/4_Adieu/lc6990957.musicxml"
     },
     {
         "in": "scores/Satie,_Erik/Socrate/1_Portrait_de_Socrate/lc6481218.mscx",
@@ -3738,6 +4066,10 @@
     {
         "in": "scores/Satie,_Erik/Socrate/2_Bords_de_l\u2019Ilissus/lc6481941.mscx",
         "out": "scores/Satie,_Erik/Socrate/2_Bords_de_l\u2019Ilissus/lc6481941.musicxml"
+    },
+    {
+        "in": "scores/Satie,_Erik/Socrate/3_Mort_de_Socrate/lc6482032.mscx",
+        "out": "scores/Satie,_Erik/Socrate/3_Mort_de_Socrate/lc6482032.musicxml"
     },
     {
         "in": "scores/Schr\u00f6ter,_Corona/25_Lieder/01_Lied_der_Morgenr\u00f6te/lc6017264.mscx",
@@ -3846,6 +4178,22 @@
     {
         "in": "scores/Schubert,_Franz/_/Das_Rosenband,_D.280/lc5946872.mscx",
         "out": "scores/Schubert,_Franz/_/Das_Rosenband,_D.280/lc5946872.musicxml"
+    },
+    {
+        "in": "scores/Schubert,_Franz/_/Die_Forelle,_Op.32,_D550d/lc6900961.mscx",
+        "out": "scores/Schubert,_Franz/_/Die_Forelle,_Op.32,_D550d/lc6900961.musicxml"
+    },
+    {
+        "in": "scores/Schubert,_Franz/_/Gretchen_am_Spinnrade,_D.118/lc7111114.mscx",
+        "out": "scores/Schubert,_Franz/_/Gretchen_am_Spinnrade,_D.118/lc7111114.musicxml"
+    },
+    {
+        "in": "scores/Schubert,_Franz/_/Himmelsfunken,_D.651/lc6834411.mscx",
+        "out": "scores/Schubert,_Franz/_/Himmelsfunken,_D.651/lc6834411.musicxml"
+    },
+    {
+        "in": "scores/Schubert,_Franz/_/Liebesrausch,_D.179/lc7071193.mscx",
+        "out": "scores/Schubert,_Franz/_/Liebesrausch,_D.179/lc7071193.musicxml"
     },
     {
         "in": "scores/Schubert,_Franz/_/St\u00e4ndchen,_D.889/lc5133353.mscx",
@@ -3962,6 +4310,14 @@
     {
         "in": "scores/Schubert,_Franz/Die_sch\u00f6ne_M\u00fcllerin,_D.795/20_Des_Baches_Wiegenlied/lc4985931.mscx",
         "out": "scores/Schubert,_Franz/Die_sch\u00f6ne_M\u00fcllerin,_D.795/20_Des_Baches_Wiegenlied/lc4985931.musicxml"
+    },
+    {
+        "in": "scores/Schubert,_Franz/Op.22/1_Der_Zwerg,_D.771/lc6838113.mscx",
+        "out": "scores/Schubert,_Franz/Op.22/1_Der_Zwerg,_D.771/lc6838113.musicxml"
+    },
+    {
+        "in": "scores/Schubert,_Franz/Op.22/2_Wehmut,_D.772/lc6834474.mscx",
+        "out": "scores/Schubert,_Franz/Op.22/2_Wehmut,_D.772/lc6834474.musicxml"
     },
     {
         "in": "scores/Schubert,_Franz/Op.52/1_Ellens_Gesang_I,_D.837/lc6181353.mscx",
@@ -4236,6 +4592,26 @@
         "out": "scores/Schumann,_Clara/Lieder,_Op.12/11_Warum_willst_du_And\u2019re_fragen/lc5197231.musicxml"
     },
     {
+        "in": "scores/Schumann,_Robert/5_Lieder_und_Ges\u00e4nge,_Op.127/1_S\u00e4ngers_Trost/lc6826352.mscx",
+        "out": "scores/Schumann,_Robert/5_Lieder_und_Ges\u00e4nge,_Op.127/1_S\u00e4ngers_Trost/lc6826352.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/5_Lieder_und_Ges\u00e4nge,_Op.127/2_Dein_Angesicht/lc6834542.mscx",
+        "out": "scores/Schumann,_Robert/5_Lieder_und_Ges\u00e4nge,_Op.127/2_Dein_Angesicht/lc6834542.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/5_Lieder_und_Ges\u00e4nge,_Op.127/3_Es_leuchtet_meine_Liebe/lc6826597.mscx",
+        "out": "scores/Schumann,_Robert/5_Lieder_und_Ges\u00e4nge,_Op.127/3_Es_leuchtet_meine_Liebe/lc6826597.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/5_Lieder_und_Ges\u00e4nge,_Op.127/4_Mein_altes_Ross/lc6827712.mscx",
+        "out": "scores/Schumann,_Robert/5_Lieder_und_Ges\u00e4nge,_Op.127/4_Mein_altes_Ross/lc6827712.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/5_Lieder_und_Ges\u00e4nge,_Op.127/5_Schlusslied_des_Narren/lc6828018.mscx",
+        "out": "scores/Schumann,_Robert/5_Lieder_und_Ges\u00e4nge,_Op.127/5_Schlusslied_des_Narren/lc6828018.musicxml"
+    },
+    {
         "in": "scores/Schumann,_Robert/Dichterliebe,_Op.48/01_Im_wundersch\u00f6nen_Monat_Mai/lc4976777.mscx",
         "out": "scores/Schumann,_Robert/Dichterliebe,_Op.48/01_Im_wundersch\u00f6nen_Monat_Mai/lc4976777.musicxml"
     },
@@ -4332,6 +4708,26 @@
         "out": "scores/Schumann,_Robert/Frauenliebe_und_Leben,_Op.42/8_Nun_hast_du_mir_den_ersten_Schmerz_getan/lc4978501.musicxml"
     },
     {
+        "in": "scores/Schumann,_Robert/Lieder_und_Ges\u00e4nge,_Vol.IV,_Op.96/1_Nachtlied/lc6984262.mscx",
+        "out": "scores/Schumann,_Robert/Lieder_und_Ges\u00e4nge,_Vol.IV,_Op.96/1_Nachtlied/lc6984262.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Lieder_und_Ges\u00e4nge,_Vol.IV,_Op.96/2_Schneegl\u00f6ckchen/lc6984553.mscx",
+        "out": "scores/Schumann,_Robert/Lieder_und_Ges\u00e4nge,_Vol.IV,_Op.96/2_Schneegl\u00f6ckchen/lc6984553.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Lieder_und_Ges\u00e4nge,_Vol.IV,_Op.96/3_Ihre_Stimme/lc6834630.mscx",
+        "out": "scores/Schumann,_Robert/Lieder_und_Ges\u00e4nge,_Vol.IV,_Op.96/3_Ihre_Stimme/lc6834630.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Lieder_und_Ges\u00e4nge,_Vol.IV,_Op.96/4_Gesungen/lc6984631.mscx",
+        "out": "scores/Schumann,_Robert/Lieder_und_Ges\u00e4nge,_Vol.IV,_Op.96/4_Gesungen/lc6984631.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Lieder_und_Ges\u00e4nge,_Vol.IV,_Op.96/5_Himmel_und_Erde/lc6985082.mscx",
+        "out": "scores/Schumann,_Robert/Lieder_und_Ges\u00e4nge,_Vol.IV,_Op.96/5_Himmel_und_Erde/lc6985082.musicxml"
+    },
+    {
         "in": "scores/Schumann,_Robert/Liederkreis,_Op.39/01_In_der_Fremde_[I]/lc5080752.mscx",
         "out": "scores/Schumann,_Robert/Liederkreis,_Op.39/01_In_der_Fremde_[I]/lc5080752.musicxml"
     },
@@ -4378,6 +4774,110 @@
     {
         "in": "scores/Schumann,_Robert/Liederkreis,_Op.39/12_Fr\u00fchlingsnacht/lc4987677.mscx",
         "out": "scores/Schumann,_Robert/Liederkreis,_Op.39/12_Fr\u00fchlingsnacht/lc4987677.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/01_Widmung/lc6885211.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/01_Widmung/lc6885211.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/02_Freisinn/lc6885263.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/02_Freisinn/lc6885263.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/03_Der_Nussbaum/lc6891758.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/03_Der_Nussbaum/lc6891758.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/04_Jemand/lc6909438.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/04_Jemand/lc6909438.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/05_Sitz\u2019_ich_allein/lc6909543.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/05_Sitz\u2019_ich_allein/lc6909543.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/06_Setze_mir_nicht/lc6909785.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/06_Setze_mir_nicht/lc6909785.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/07_Die_Lotosblume/lc6909797.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/07_Die_Lotosblume/lc6909797.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/08_Talismane/lc6910703.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/08_Talismane/lc6910703.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/09_Lied_der_Suleika/lc6914397.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/09_Lied_der_Suleika/lc6914397.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/10_Die_Hochl\u00e4nder-Witwe/lc6915474.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/10_Die_Hochl\u00e4nder-Witwe/lc6915474.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/11_Lieder_der_Braut_I_(Mutter!_Mutter!)/lc6915729.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/11_Lieder_der_Braut_I_(Mutter!_Mutter!)/lc6915729.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/12_Lieder_der_Braut_II_(Lass_mich_ihm_am_Busen_hangen)/lc6915753.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/12_Lieder_der_Braut_II_(Lass_mich_ihm_am_Busen_hangen)/lc6915753.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/13_Hochl\u00e4nders_Abschied/lc6916642.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/13_Hochl\u00e4nders_Abschied/lc6916642.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/14_Hochl\u00e4ndisches_Wiegenlied/lc6917116.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/14_Hochl\u00e4ndisches_Wiegenlied/lc6917116.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/15_Aus_den_hebr\u00e4ischen_Ges\u00e4ngen_(Mein_Herz_ist_schwer)/lc6925763.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/15_Aus_den_hebr\u00e4ischen_Ges\u00e4ngen_(Mein_Herz_ist_schwer)/lc6925763.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/16_R\u00e4tsel/lc6834588.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/16_R\u00e4tsel/lc6834588.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/17_Zwei_venetianische_Lieder_I_(Leis\u2019_rudern_hin)/lc6965894.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/17_Zwei_venetianische_Lieder_I_(Leis\u2019_rudern_hin)/lc6965894.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/18_Zwei_venetianische_Lieder_II_(Wenn_durch_die_Piazza)/lc6969398.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/18_Zwei_venetianische_Lieder_II_(Wenn_durch_die_Piazza)/lc6969398.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/19_Hauptmanns_Weib/lc6974646.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/19_Hauptmanns_Weib/lc6974646.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/20_Weit,_weit/lc6979621.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/20_Weit,_weit/lc6979621.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/21_Was_will_die_einsame_Tr\u00e4ne/lc6980134.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/21_Was_will_die_einsame_Tr\u00e4ne/lc6980134.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/22_Niemand/lc6980464.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/22_Niemand/lc6980464.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/23_Im_Westen/lc6981173.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/23_Im_Westen/lc6981173.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/24_Du_bist_wie_ein_Blume/lc6982729.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/24_Du_bist_wie_ein_Blume/lc6982729.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/25_Aus_den_\u00f6stlichen_Rosen/lc6982743.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/25_Aus_den_\u00f6stlichen_Rosen/lc6982743.musicxml"
+    },
+    {
+        "in": "scores/Schumann,_Robert/Myrthen,_Op.25/26_Zum_Schluss/lc6915685.mscx",
+        "out": "scores/Schumann,_Robert/Myrthen,_Op.25/26_Zum_Schluss/lc6915685.musicxml"
     },
     {
         "in": "scores/Shield,_William/_/The_Maid_of_Lodi/lc6445119.mscx",
@@ -4444,8 +4944,36 @@
         "out": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/1_As_thro\u2019_the_land/lc6785268.musicxml"
     },
     {
+        "in": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/2_Sweet_and_low/lc6788150.mscx",
+        "out": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/2_Sweet_and_low/lc6788150.musicxml"
+    },
+    {
+        "in": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/3_The_splendour_falls/lc6789660.mscx",
+        "out": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/3_The_splendour_falls/lc6789660.musicxml"
+    },
+    {
+        "in": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/4_Tears,_idle_tears/lc6788555.mscx",
+        "out": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/4_Tears,_idle_tears/lc6788555.musicxml"
+    },
+    {
         "in": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/5_O_swallow,_swallow/lc6789668.mscx",
         "out": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/5_O_swallow,_swallow/lc6789668.musicxml"
+    },
+    {
+        "in": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/6_Thy_voice_is_heard/lc6789677.mscx",
+        "out": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/6_Thy_voice_is_heard/lc6789677.musicxml"
+    },
+    {
+        "in": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/7_Home_they_brought_her_warrior_dead/lc6793692.mscx",
+        "out": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/7_Home_they_brought_her_warrior_dead/lc6793692.musicxml"
+    },
+    {
+        "in": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/8_Our_enemies_have_fall\u2019n/lc6793961.mscx",
+        "out": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/8_Our_enemies_have_fall\u2019n/lc6793961.musicxml"
+    },
+    {
+        "in": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/9_Ask_me_no_more/lc6794671.mscx",
+        "out": "scores/Stanford,_Charles_Villiers/A_Cycle_of_Songs,_Op.68/9_Ask_me_no_more/lc6794671.musicxml"
     },
     {
         "in": "scores/Stanford,_Charles_Villiers/Songs_of_a_Roving_Celt,_Op.157/1_The_Pibroch/lc6548253.mscx",
@@ -4490,6 +5018,14 @@
     {
         "in": "scores/Sullivan,_Arthur/_/The_Lost_Chord/lc6205441.mscx",
         "out": "scores/Sullivan,_Arthur/_/The_Lost_Chord/lc6205441.musicxml"
+    },
+    {
+        "in": "scores/Tegn\u00e9r,_Alice/_/Betlehems_stj\u00e4rna/lc6910499.mscx",
+        "out": "scores/Tegn\u00e9r,_Alice/_/Betlehems_stj\u00e4rna/lc6910499.musicxml"
+    },
+    {
+        "in": "scores/Tegn\u00e9r,_Alice/_/Walzer/lc6910483.mscx",
+        "out": "scores/Tegn\u00e9r,_Alice/_/Walzer/lc6910483.musicxml"
     },
     {
         "in": "scores/Thys,_Pauline/_/Petit_n\u00e8gre/lc6670960.mscx",
@@ -4540,8 +5076,8 @@
         "out": "scores/Viardot,_Pauline/6_M\u00e9lodies_et_une_havanaise/3b_J\u2019en_mourrai/lc6639009.musicxml"
     },
     {
-        "in": "scores/Viardot,_Pauline/6_M\u00e9lodies_et_une_havanaise/4_Hai_Luli/lc6639381.mscx",
-        "out": "scores/Viardot,_Pauline/6_M\u00e9lodies_et_une_havanaise/4_Hai_Luli/lc6639381.musicxml"
+        "in": "scores/Viardot,_Pauline/6_M\u00e9lodies_et_une_havanaise/4_Hai_Luli_!/lc6639381.mscx",
+        "out": "scores/Viardot,_Pauline/6_M\u00e9lodies_et_une_havanaise/4_Hai_Luli_!/lc6639381.musicxml"
     },
     {
         "in": "scores/Viardot,_Pauline/6_M\u00e9lodies_et_une_havanaise/5_Gentilles_hirondelles/lc6641060.mscx",

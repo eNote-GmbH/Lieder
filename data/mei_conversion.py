@@ -54,6 +54,8 @@ if __name__ == "__main__":
     for musicxml_file in tqdm(all_musicxml_files, desc="Converting MusicXML to MEI"):
         musicxml_path = Path(musicxml_file)
         output_path = str(musicxml_path.parent).replace(str(input_directory), str(output_directory))
+        if Path(output_path).exists():
+            continue
         verovio_music_xml_converter.convert_musicxml_to_mei(
             path_to_musicxml_file=musicxml_file,
             output_directory=output_path
