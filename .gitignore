@@ -12,3 +12,7 @@
 .*.mscx,
 .*.mscz,
 *~
+*.mei
+*.musicxml
+/.idea/
+/OpenScore_Sanitized/
